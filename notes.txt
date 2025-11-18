@@ -1,0 +1,72 @@
+form controls
+
+date
+month
+week
+text
+email
+password
+button
+radio-button
+checkbox
+
+
+Cookies(4kb)
+
+Webstorage(5mb)
+1.local storage
+2.session storage
+
+Cookies = Login,session,security,authenication
+Webstorage = big date storage,app data,offline data
+
+
+Local storage:
+1.Local Storage is a web storage feature that allows websities to store data in the browser with no expiration time.
+2.This means the data remains availabele/even after the user closes and reopens the browser or the system is restarted.
+3.It is tpicall used to save long-term data such as user preference,themes, or login tokens.
+
+
+Session Storage:
+
+1.Session storage is also a browser - based method, but it only stores data for the duration of a single browser tab session.
+2.Once the tab is closed, all sessions storage data is automatically deleted.
+3.It is useful for storing temparary data like form inputs or navigation steps that dont need to persist beond the current session.
+4.Unlike local storage, session storage is not shared across tabs - each tab has its own session.
+
+
+Git:-
+
+Git is a distributed version control system that helps ou to track changes in your code, save different versions of your project, and work with others
+without overwriting each other's work. It allows ou to create brancehes, experiment safety and easily go back to older versions whenever needed.
+
+
+Github -> Website(by microsoft) to store & manage Git reposistories online.
+Git Code Comments:-
+
+push=upload
+pull=download
+pop=delete
+
+Fundamental Commands:-
+
+1.git init - create a new reposistory
+2.git add - add files to staging
+3.git status - show file changes
+4.git status -  show file changes
+5. git clone -  copy a remote reposistory
+6.git push - Upload commits to remote
+7.git pull - Download and merge from remote
+8.git branch - Show branches
+9.git checkout - Switch branches
+10. git remote -v  - show connected remote reposistory
+11.git log - View commit history
+12.git merge - Merge another branch
+13.git fetch - Download updates without merge
+14.git switch - modern breach switching
+15.git stash - Save uncommitted changes
+16.git stash pop - Restore stashed work
+17.git reset - Undo-staged/commited changes
+18.git rm - Remove a file
+19.git mv- Rename/Move a file
+20.git diff - See the difference between versions

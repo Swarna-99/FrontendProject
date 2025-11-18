@@ -1,0 +1,36 @@
+
+table {
+   background-color: rgba(0, 255, 255, 0.623);
+  margin-left: auto;
+  margin-right: auto;
+
+}
+
+
+th {
+
+  background-color: black;
+  font-family: 'Times New Roman', Times, serif;
+  font-size: medium;
+  border: 1px;
+  color:#ddd;
+}
+
+
+tr:hover {
+  background-color: #ddd;
+}
+
+td {
+  border: 1px solid #ddd;
+  padding: 10px;
+}
+
+ form {
+  text-align: center;     /* centers all inline elements inside the form */
+  font-size: 18px;        /* optional */
+}
+
+form input {
+  margin: 6px;            /* spacing between elements */
+}
